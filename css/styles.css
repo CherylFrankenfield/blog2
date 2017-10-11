@@ -6,6 +6,8 @@ h2 {
 .post {
   color: brown;
   font-family: sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .about {
@@ -17,4 +19,8 @@ h2 {
 .favorite {
   font-weight: bolder;
   color: green;
+}
+
+img {
+  margin-left: 30%;
 }
