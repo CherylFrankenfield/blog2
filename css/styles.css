@@ -1,0 +1,20 @@
+h2 {
+  font-size: 50px;
+  color: black;
+}
+
+.post {
+  color: brown;
+  font-family: sans-serif;
+}
+
+.about {
+  color: purple;
+  font-family: serif;
+  font-style: italic;
+}
+
+.favorite {
+  font-weight: bolder;
+  color: green;
+}
