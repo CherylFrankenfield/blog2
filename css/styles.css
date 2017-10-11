@@ -24,3 +24,19 @@ h2 {
 img {
   margin-left: 30%;
 }
+
+@media screen and (min-width: 300px) and (max-width: 480px) {
+  body {
+    background-color: salmon;
+    color: green;
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  h1 {
+    font-size: 60px;
+    font-family: monospace;
+
+  }
+
+}
